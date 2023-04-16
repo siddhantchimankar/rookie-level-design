@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Rookie Level Design",
   tagline: "Rookie Level Design",
-  url: "https://rookie-level-design.com",
+  url: "https://rookieleveldesign.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
