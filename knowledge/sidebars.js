@@ -23,7 +23,7 @@ const sidebars = {
       type: 'category',
       label: 'Low-level Design',
       items: [
-        'Low-level-Design/birds',
+        'Low-level-Design/tic-tac-toe',
       ],
     },
     {
