@@ -1,6 +1,0 @@
-
-
-Deploy and Test on Netlify
-Google Analytics integration
-Algolia Search integration
-SEO 
