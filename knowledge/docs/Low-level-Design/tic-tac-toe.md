@@ -1,2 +1,1 @@
-
-[Share on Twitter](https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20the%20low-level%20design%20of%20Tic%20Tac%20Toe!%20%23tictactoe%20%23lowleveldesign%20https%3A%2F%2Frookieleveldesign.netlify.app%2FLow-level-Design%2Ftic-tac-toe)
+👉 [**Share on Twitter**](https://twitter.com/intent/tweet?text=Check%20out%20this%20article%20on%20the%20low-level%20design%20of%20Tic%20Tac%20Toe!%20%23tictactoe%20%23lowleveldesign%20https%3A%2F%2Frookieleveldesign.netlify.app%2FLow-level-Design%2Ftic-tac-toe)
